@@ -13,4 +13,4 @@
 5、新建了图片存放文件夹<br />
 
 ## 项目原版页面预览<br />
-![1722256547263](https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/1722256547263.png)
+![666](https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/666.png)
