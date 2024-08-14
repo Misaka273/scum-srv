@@ -4,6 +4,8 @@
 修改说明：（正在编辑的路上）<br />
 无压力下载：[下载](http://baimu.live)<br />
 项目构建日期：2024年8月10日<br />
+页面预览：[点击预览](http://baimu.live/scum/scum-web/index.html)<br />
+
 
 ## 本项目说明<br />
 1、重组noisework的源码<br />
