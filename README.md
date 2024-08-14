@@ -13,7 +13,7 @@
 5、新建了图片存放文件夹<br />
 
 ## 本项目页面预览
-![999](http://baimu.live/scum/imgs/20240815001508.png)
+![666](http://baimu.live/scum/imgs/20240815001508.png)
 
 ## 项目原版页面预览<br />
 ![666](https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/666.png)
