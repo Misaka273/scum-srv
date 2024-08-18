@@ -1,7 +1,7 @@
 # SCUM 私服引导页网站模板
 源码来源：[GitHub](https://github.com/rcy1314/noisework)<br />
 部署说明：（正在编辑的路上）<br />
-修改说明：（正在编辑的路上）<br />
+修改说明：[查阅](http://baimu.live/1207/)<br />
 无压力下载：[下载](http://baimu.live)<br />
 项目构建日期：2024年8月10日<br />
 页面预览：[点击预览](http://baimu.live/scum/scum-web/index.html)<br />
