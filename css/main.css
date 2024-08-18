@@ -535,3 +535,20 @@ a {
 	text-align: center;
 	display: none; /* 初始时隐藏 */
   }
+/* 画布尺寸 */
+/*
+body {
+    display: flex;          
+    height: 100vh;          
+    margin: 0;              
+    align-items: center;    
+    justify-content: flex-start; 
+    background: #f0f0f0;    
+}
+
+.main {
+    width: 790px;
+    padding: 30px 330px 5px 20px;
+    
+}
+*/
